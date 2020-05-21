@@ -1,0 +1,10 @@
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\bin\Debug\PythonConnection.dll
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\bin\Debug\PythonConnection.pdb
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\bin\Debug\ru\Microsoft.VisualStudio.TestTools.UITest.Extension.resources.dll
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\obj\Debug\PythonConnection.csprojAssemblyReference.cache
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\obj\Debug\PythonConnection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\obj\Debug\PythonConnection.csproj.CopyComplete
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\obj\Debug\PythonConnection.dll
+C:\Users\Lenovo X1 Extreme\source\repos\CourseWork\PythonConnection\obj\Debug\PythonConnection.pdb
